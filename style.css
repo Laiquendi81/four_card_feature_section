@@ -1,3 +1,41 @@
+
+body {
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+}
+
+.container {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.container h1 {
+
+}
+
+.container p {
+  font-size: .8rem;
+}
+
+.card p {
+  font-size: .6rem;
+}
+
+.card {
+  background-color: white;
+  display: inline-block;
+  border-top: 3px solid black;
+  border-radius: 5px;
+  box-shadow: 10px;
+  margin: 10px;
+}
+
 h1 {
-  color: red;
+  font-weight: 200;
+}
+
+h2 {
+  font-weight: 600;
 }
